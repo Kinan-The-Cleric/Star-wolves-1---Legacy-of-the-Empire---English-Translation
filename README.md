@@ -1,5 +1,5 @@
 Click on the zip file then view raw to download it.
-=======================================================================================================================================
+===========================================================================
 Instructions to install the mod, then the english data (Skip step 1 and 3 if you already installed the mod on russian language):
 
 1_after installing the mod in a separate folder, go to DATA folder in star wolves 1 exe location.
@@ -16,7 +16,7 @@ Now you have the russian version for the mod. To modify the english language:
 
 6_close the zip file and rename it back to Data.dat
 
-============================================================================================
+===========================================================================
 
 Link to where I got the mod:
 
@@ -36,6 +36,6 @@ Additional tips to avoid crashing/bugs:
 
 https://www.youtube.com/watch?v=zygSCcTq05Q&
 
-============================================================================================
+===========================================================================
 
 Special thanks to the creators of this mod, whom you'll find in ReadMe-EG.txt in the mod's folder. And thanks to Fredel (Fred777 on GoG) who created the cipher tool that helped me encode/decode in-game dialogs
