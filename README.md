@@ -1,5 +1,12 @@
 Click on the zip file then view raw to download it.
 ===========================================================================
+This mod archive is provided for preservation and educational purposes only.
+All original content belongs to its respective creators.
+
+No copyright infringement is intended. 
+If you are a rights holder and would like this removed, please contact me and I will take it down immediately.
+===========================================================================
+
 Instructions to install the mod, then the english data (Skip step 1 and 3 if you already installed the mod on russian language):
 
 1_after installing the mod in a separate folder, go to DATA folder in star wolves 1 exe location.
